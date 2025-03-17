@@ -6,3 +6,5 @@ All datasets used: raw, processed, converted
 required libraries
 -pip install pandas pyproj
 Python 3.6-3.11
+
+Google Earth Pro (Software) required for visualization
